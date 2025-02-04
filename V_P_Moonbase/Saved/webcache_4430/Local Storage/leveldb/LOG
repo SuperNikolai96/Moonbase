@@ -1,2 +1,3 @@
-2025/01/23-14:34:19.030 8844 Creating DB C:/Users/nikol/Documents/Moonbase/V_P_Moonbase/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/01/23-14:34:19.043 8844 Reusing MANIFEST C:/Users/nikol/Documents/Moonbase/V_P_Moonbase/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/02/04-15:19:37.514 958 Reusing MANIFEST C:/Users/nikol/Documents/Moonbase/V_P_Moonbase/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/02/04-15:19:37.522 958 Recovering log #3
+2025/02/04-15:19:37.523 958 Reusing old log C:/Users/nikol/Documents/Moonbase/V_P_Moonbase/Saved/webcache_4430\Local Storage\leveldb/000003.log 
