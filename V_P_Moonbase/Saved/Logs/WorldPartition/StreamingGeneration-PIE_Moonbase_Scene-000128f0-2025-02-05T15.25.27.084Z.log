@@ -1,0 +1,279 @@
+[+] Containers:
+ |- [+] Container: /Game/CustomAssets/Moonbase_Scene
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0188CB2042BE65F46DE4A0B0F82FAEBD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D89415F4502_1488133081 Label:Moonbase_Control_Room_ArchwayDecor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-28.469 Y=-162.462 Z=-14.402), Max=(X=495.016 Y=162.462 Z=340.987) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:03920DF94EEFC9F86CC66185D32A3DA1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:1DE8D7AC4103A2EABA11649C7FCF8ACA BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:218E3B124735712D7EF272B4FB8E7FF6 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:22DCAF70465BCAEAB802BEA82A241346 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_UAID_FC5CEE9D89413F4902_1357701671 Label:PostProcessVolume SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-144.750 Y=-396.500 Z=-32.250), Max=(X=544.750 Y=356.500 Z=472.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:25E854CE4B93BD759173A48EAB1A3008 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D8941964602_1151990815 Label:Moonbase_Control_Room_Windows_Main SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-26.991 Y=-133.140 Z=20.060), Max=(X=25.358 Y=133.140 Z=321.073) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2AAB0BF349B088F18048AFBE9EB81766 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Moonbase_Scene_HLOD0_Instancing_00000000cef51283 Label:Moonbase_Scene_HLOD0_Instancing/Moonbase_Scene_MainGrid_-1_-1_-1_4 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-197292.281 Y=-154163.156 Z=-20508.992), Max=(X=87384.109 Y=132723.078 Z=15790.968) RuntimeGrid:MainGrid:Moonbase_Scene_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/Moonbase_Scene_HLOD0_Instancing FolderGuid:70B9C0094DE427BF41C73DA0AC5E4A4D
+ |   |   |- Guid:2CE12F874AA39D020A0F4BA5739BD305 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:2E6B6875465919213F444890F9D6E7ED BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D8941264902_2146220271 Label:Moonbase_Control_Room_Window_Main_Glass SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=60.000), Max=(X=0.000 Y=0.000 Z=60.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3B535A784BDFDEBEA78B8D8C0E2FDD3C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D8941704902_1433171295 Label:Moonbase_Control_Room_Windows SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=60.000), Max=(X=0.000 Y=0.000 Z=60.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3E48ED294ABAF4C2B7DB37837AD152AC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D8941964602_2066770816 Label:Moonbase_Control_Room_Duct_1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15.358 Y=92.734 Z=12.770), Max=(X=125.489 Y=209.901 Z=110.879) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3F095D0D403468143521E8829133F4D4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D8941744902_1217042999 Label:Moonbase_Control_Room_Work_Table SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14.886 Y=-133.912 Z=8.448), Max=(X=104.315 Y=134.177 Z=104.146) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:44FAEF20461B93B2321593BB4CD157FF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D89415F4502_1635064085 Label:Moonbase_Control_Room_Ceiling_1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-39.565 Y=-223.948 Z=324.695), Max=(X=297.720 Y=223.948 Z=472.455) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:455312B44F33F18B9B401896F50F5A38 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D89414C4902_1870686960 Label:Moonbase_Moon_Landscape SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-197292.281 Y=-154163.156 Z=-20508.992), Max=(X=87384.109 Y=132723.078 Z=15790.968) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:59B8430F41B6A38E0D61D3AF359B5979 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D89415F4502_1386291080 Label:Moonbase_Control_Room_Floor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-48.032 Y=-378.713 Z=-6.816), Max=(X=506.947 Y=378.713 Z=17.193) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6387E6AD4B34B19A6B02EA91A36B5041 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D89415F4502_1578787083 Label:Moonbase_Control_Room_Wall_Side_1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6.161 Y=163.520 Z=8.836), Max=(X=259.453 Y=357.582 Z=180.551) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6C3D7F304366091E02CF0D991ED67971 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D8941714902_1081785473 Label:Moonbase_Control_Room_Windows2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-21.583 Y=-348.704 Z=97.685), Max=(X=262.118 Y=348.704 Z=465.034) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6EC9ECDA41548ACD363FDFA5DDF4EADA BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Moonbase_Scene_HLOD0_Instancing_00000000f9a4222a Label:Moonbase_Scene_HLOD0_Instancing/Moonbase_Scene_MainGrid_0_-1_0_0 SpatiallyLoaded:0 Bounds:(Editor:IsValid=true, Min=(X=-39.565 Y=-357.582 Z=-14.402), Max=(X=495.016 Y=356.893 Z=472.455) Runtime:IsValid=true, Min=(X=-144.750 Y=-396.500 Z=-32.250), Max=(X=544.750 Y=356.893 Z=472.455)) RuntimeGrid:MainGrid:Moonbase_Scene_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/Moonbase_Scene_HLOD0_Instancing FolderGuid:70B9C0094DE427BF41C73DA0AC5E4A4D
+ |   |   |- Guid:75AF87914CF52B2D8B8F919A70F105DA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D8941774902_1230392528 Label:Moonbase_Control_Room_Mobile_Device_Holder_iPad_Pro_2020 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=61.377 Y=108.807 Z=142.160), Max=(X=61.997 Y=130.257 Z=170.156) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:79AF93464098CAF488EF06B55D7FC5A4 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Moonbase_Scene_HLOD0_Instancing_0000000022d015c1 Label:Moonbase_Scene_HLOD0_Instancing/Moonbase_Scene_MainGrid_0_0_0_0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-48.032 Y=-378.713 Z=-6.816), Max=(X=506.947 Y=378.713 Z=465.034) RuntimeGrid:MainGrid:Moonbase_Scene_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/Moonbase_Scene_HLOD0_Instancing FolderGuid:70B9C0094DE427BF41C73DA0AC5E4A4D
+ |   |   |- Guid:7CB01FDF48FD943EF6724E83B53AE0E0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D89415F4502_1514194082 Label:Moonbase_Control_Room_Ceiling_Sides SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-38.919 Y=-356.893 Z=1.159), Max=(X=297.684 Y=356.893 Z=435.848) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:92B30CEC4429E51A0194B3BC0E9250E4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D8941744902_1877315999 Label:Moonbase_Control_Room_Radial_Buttons SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=23.646 Y=-124.149 Z=95.264), Max=(X=38.515 Y=-114.359 Z=103.895) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:962D6BE34E7839A2A94E65B8F6CE5D43 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_F02F74551BF5599B01_1153002503 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=390.000 Y=-40.000 Z=60.000), Max=(X=470.000 Y=40.000 Z=244.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:99E915C345775E929B7836AC0C1A001C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D8941774902_1198838527 Label:Moonbase_Control_Room_Mobile_Device_Holder_Cube_023 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=21.068 Y=106.329 Z=40.768), Max=(X=62.632 Y=132.702 Z=172.928) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9A9531EA4628CA37F2EBA09A2F280292 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D8941754902_2064908175 Label:Moonbase_Control_Room_Radial_Buttons2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=23.646 Y=-124.149 Z=95.264), Max=(X=38.515 Y=-114.359 Z=103.895) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:D3FB7383421AAEFD3DB6F8B1E415A9FE BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:D640714A4B3905E117CF02B900C37A51 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D89415F4502_1605905084 Label:Moonbase_Control_Room_Wall_Side_2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6.161 Y=-357.582 Z=8.836), Max=(X=259.453 Y=-164.022 Z=180.551) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F43F47084FE235CAFFA1638F06B252D1 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Moonbase_Scene_HLOD0_Instancing_0000000081eecda5 Label:Moonbase_Scene_HLOD0_Instancing/Moonbase_Scene_MainGrid_-1_0_0_0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-26.991 Y=-133.140 Z=20.060), Max=(X=25.358 Y=133.140 Z=321.073) RuntimeGrid:MainGrid:Moonbase_Scene_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/Moonbase_Scene_HLOD0_Instancing FolderGuid:70B9C0094DE427BF41C73DA0AC5E4A4D
+ |   |   |- Guid:F9E1AB734B5BE08BBEEDF09286ED8FCA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D8941764902_1891914351 Label:Moonbase_Control_Room_Chair SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=176.806 Y=-123.079 Z=17.405), Max=(X=269.072 Y=-27.671 Z=163.301) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:0188CB2042BE65F46DE4A0B0F82FAEBD BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D89415F4502_1488133081 Label:Moonbase_Control_Room_ArchwayDecor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-28.469 Y=-162.462 Z=-14.402), Max=(X=495.016 Y=162.462 Z=340.987) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:03920DF94EEFC9F86CC66185D32A3DA1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:1DE8D7AC4103A2EABA11649C7FCF8ACA BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:218E3B124735712D7EF272B4FB8E7FF6 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:22DCAF70465BCAEAB802BEA82A241346 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_UAID_FC5CEE9D89413F4902_1357701671 Label:PostProcessVolume SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-144.750 Y=-396.500 Z=-32.250), Max=(X=544.750 Y=356.500 Z=472.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:25E854CE4B93BD759173A48EAB1A3008 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D8941964602_1151990815 Label:Moonbase_Control_Room_Windows_Main SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-26.991 Y=-133.140 Z=20.060), Max=(X=25.358 Y=133.140 Z=321.073) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:2AAB0BF349B088F18048AFBE9EB81766 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Moonbase_Scene_HLOD0_Instancing_00000000cef51283 Label:Moonbase_Scene_HLOD0_Instancing/Moonbase_Scene_MainGrid_-1_-1_-1_4 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-197292.281 Y=-154163.156 Z=-20508.992), Max=(X=87384.109 Y=132723.078 Z=15790.968) RuntimeGrid:MainGrid:Moonbase_Scene_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/Moonbase_Scene_HLOD0_Instancing FolderGuid:70B9C0094DE427BF41C73DA0AC5E4A4D
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:2CE12F874AA39D020A0F4BA5739BD305 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:2E6B6875465919213F444890F9D6E7ED BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D8941264902_2146220271 Label:Moonbase_Control_Room_Window_Main_Glass SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=60.000), Max=(X=0.000 Y=0.000 Z=60.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:3B535A784BDFDEBEA78B8D8C0E2FDD3C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D8941704902_1433171295 Label:Moonbase_Control_Room_Windows SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=60.000), Max=(X=0.000 Y=0.000 Z=60.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:3E48ED294ABAF4C2B7DB37837AD152AC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D8941964602_2066770816 Label:Moonbase_Control_Room_Duct_1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=15.358 Y=92.734 Z=12.770), Max=(X=125.489 Y=209.901 Z=110.879) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:3F095D0D403468143521E8829133F4D4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D8941744902_1217042999 Label:Moonbase_Control_Room_Work_Table SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=14.886 Y=-133.912 Z=8.448), Max=(X=104.315 Y=134.177 Z=104.146) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:44FAEF20461B93B2321593BB4CD157FF BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D89415F4502_1635064085 Label:Moonbase_Control_Room_Ceiling_1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-39.565 Y=-223.948 Z=324.695), Max=(X=297.720 Y=223.948 Z=472.455) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:455312B44F33F18B9B401896F50F5A38 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D89414C4902_1870686960 Label:Moonbase_Moon_Landscape SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-197292.281 Y=-154163.156 Z=-20508.992), Max=(X=87384.109 Y=132723.078 Z=15790.968) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:59B8430F41B6A38E0D61D3AF359B5979 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D89415F4502_1386291080 Label:Moonbase_Control_Room_Floor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-48.032 Y=-378.713 Z=-6.816), Max=(X=506.947 Y=378.713 Z=17.193) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:6387E6AD4B34B19A6B02EA91A36B5041 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D89415F4502_1578787083 Label:Moonbase_Control_Room_Wall_Side_1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6.161 Y=163.520 Z=8.836), Max=(X=259.453 Y=357.582 Z=180.551) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:6C3D7F304366091E02CF0D991ED67971 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D8941714902_1081785473 Label:Moonbase_Control_Room_Windows2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-21.583 Y=-348.704 Z=97.685), Max=(X=262.118 Y=348.704 Z=465.034) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:6EC9ECDA41548ACD363FDFA5DDF4EADA BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Moonbase_Scene_HLOD0_Instancing_00000000f9a4222a Label:Moonbase_Scene_HLOD0_Instancing/Moonbase_Scene_MainGrid_0_-1_0_0 SpatiallyLoaded:0 Bounds:(Editor:IsValid=true, Min=(X=-39.565 Y=-357.582 Z=-14.402), Max=(X=495.016 Y=356.893 Z=472.455) Runtime:IsValid=true, Min=(X=-144.750 Y=-396.500 Z=-32.250), Max=(X=544.750 Y=356.893 Z=472.455)) RuntimeGrid:MainGrid:Moonbase_Scene_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/Moonbase_Scene_HLOD0_Instancing FolderGuid:70B9C0094DE427BF41C73DA0AC5E4A4D
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:75AF87914CF52B2D8B8F919A70F105DA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D8941774902_1230392528 Label:Moonbase_Control_Room_Mobile_Device_Holder_iPad_Pro_2020 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=61.377 Y=108.807 Z=142.160), Max=(X=61.997 Y=130.257 Z=170.156) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:79AF93464098CAF488EF06B55D7FC5A4 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Moonbase_Scene_HLOD0_Instancing_0000000022d015c1 Label:Moonbase_Scene_HLOD0_Instancing/Moonbase_Scene_MainGrid_0_0_0_0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-48.032 Y=-378.713 Z=-6.816), Max=(X=506.947 Y=378.713 Z=465.034) RuntimeGrid:MainGrid:Moonbase_Scene_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/Moonbase_Scene_HLOD0_Instancing FolderGuid:70B9C0094DE427BF41C73DA0AC5E4A4D
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:7CB01FDF48FD943EF6724E83B53AE0E0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D89415F4502_1514194082 Label:Moonbase_Control_Room_Ceiling_Sides SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-38.919 Y=-356.893 Z=1.159), Max=(X=297.684 Y=356.893 Z=435.848) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:92B30CEC4429E51A0194B3BC0E9250E4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D8941744902_1877315999 Label:Moonbase_Control_Room_Radial_Buttons SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=23.646 Y=-124.149 Z=95.264), Max=(X=38.515 Y=-114.359 Z=103.895) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:962D6BE34E7839A2A94E65B8F6CE5D43 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_F02F74551BF5599B01_1153002503 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=390.000 Y=-40.000 Z=60.000), Max=(X=470.000 Y=40.000 Z=244.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:99E915C345775E929B7836AC0C1A001C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D8941774902_1198838527 Label:Moonbase_Control_Room_Mobile_Device_Holder_Cube_023 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=21.068 Y=106.329 Z=40.768), Max=(X=62.632 Y=132.702 Z=172.928) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:9A9531EA4628CA37F2EBA09A2F280292 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D8941754902_2064908175 Label:Moonbase_Control_Room_Radial_Buttons2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=23.646 Y=-124.149 Z=95.264), Max=(X=38.515 Y=-114.359 Z=103.895) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:D3FB7383421AAEFD3DB6F8B1E415A9FE BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:D640714A4B3905E117CF02B900C37A51 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D89415F4502_1605905084 Label:Moonbase_Control_Room_Wall_Side_2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=6.161 Y=-357.582 Z=8.836), Max=(X=259.453 Y=-164.022 Z=180.551) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:F43F47084FE235CAFFA1638F06B252D1 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:Moonbase_Scene_HLOD0_Instancing_0000000081eecda5 Label:Moonbase_Scene_HLOD0_Instancing/Moonbase_Scene_MainGrid_-1_0_0_0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-26.991 Y=-133.140 Z=20.060), Max=(X=25.358 Y=133.140 Z=321.073) RuntimeGrid:MainGrid:Moonbase_Scene_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/Moonbase_Scene_HLOD0_Instancing FolderGuid:70B9C0094DE427BF41C73DA0AC5E4A4D
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:F9E1AB734B5BE08BBEEDF09286ED8FCA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC5CEE9D8941764902_1891914351 Label:Moonbase_Control_Room_Chair SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=176.806 Y=-123.079 Z=17.405), Max=(X=269.072 Y=-27.671 Z=163.301) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-197292.281 Y=-154163.156 Z=-20508.992), Max=(X=87384.109 Y=132723.078 Z=15790.968)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/CustomAssets/Moonbase_Scene
+----------------------------------------------------------------------------------------------------------------
+Moonbase_Scene - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Moonbase_Scene Persistent Level
+ |- Always loaded Actor Count: 12 
+ |- Actor Path: /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+ |- Actor Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/F/0A/B024EQ20FPQRFTAR2A1KG1
+ |- Actor Path: /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763
+ |- Actor Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/5/B7/JVYCH9LJ7IA8TERSA45EMN
+ |- Actor Path: /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703
+ |- Actor Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/D/EH/MGXEDOLJEE4ZOS6XTJJ73V
+ |- Actor Path: /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.Moonbase_Scene_HLOD0_Instancing_0000000022d015c1
+ |- Actor Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/3/8T/THEBGY92925C0R8I5EYF76
+ |- Actor Path: /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.Moonbase_Scene_HLOD0_Instancing_0000000081eecda5
+ |- Actor Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/4/2N/ZQI37NV9J0X83MCDFBRPTH
+ |- Actor Path: /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.Moonbase_Scene_HLOD0_Instancing_00000000cef51283
+ |- Actor Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/B/22/9V2Y6HXPJ8ABP2WXG4UMHO
+ |- Actor Path: /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.Moonbase_Scene_HLOD0_Instancing_00000000f9a4222a
+ |- Actor Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/6/CL/LPMQRMFRBA5QUGX2WJWPYH
+ |- Actor Path: /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.PlayerStart_UAID_F02F74551BF5599B01_1153002503
+ |- Actor Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/3/ZW/HGXI4C7H9OLFH4XYEGEHSM
+ |- Actor Path: /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+ |- Actor Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/6/JI/M3WJHA0RY23XBG3MGF0A3O
+ |- Actor Path: /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
+ |- Actor Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/7/7E/HWJBH9AX2G1JELL54A5WFV
+ |- Actor Path: /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+ |- Actor Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/0/B5/E31CM34P3Y5R895AN4OUQU
+ |- Actor Path: /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/1/EM/FPXQOGB3AY7FGNJUV6ST55
+
+----------------------------------------------------------------------------------------------------------------
+Moonbase_Scene - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Cell Moonbase_Scene_MainGrid_0_-1_0_0 (3BI3GXHWX0YREFLXAM3F5YW56)
+ |- Actor Count: 8
+ |- [+] /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.StaticMeshActor_UAID_FC5CEE9D89415F4502_1488133081
+ |   |-         Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/0/W5/K7A4RH2U2A2NQ7G4O4UI15
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 0188CB2042BE65F46DE4A0B0F82FAEBD
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.PostProcessVolume_UAID_FC5CEE9D89413F4902_1357701671
+ |   |-         Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/3/XC/ZSZ7UA6CCT4GVMBGWF7P17
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 22DCAF70465BCAEAB802BEA82A241346
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.StaticMeshActor_UAID_FC5CEE9D89415F4502_1635064085
+ |   |-         Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/1/2I/4EH4J7K71GIITQSL36QH09
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 44FAEF20461B93B2321593BB4CD157FF
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.StaticMeshActor_UAID_FC5CEE9D89415F4502_1514194082
+ |   |-         Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/4/AL/2Y6PMVVOESANOG1F0POP1G
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 7CB01FDF48FD943EF6724E83B53AE0E0
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.StaticMeshActor_UAID_FC5CEE9D8941744902_1877315999
+ |   |-         Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/B/C8/1EVFHU6TEITP1EYYKFDQAM
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 92B30CEC4429E51A0194B3BC0E9250E4
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.StaticMeshActor_UAID_FC5CEE9D8941754902_2064908175
+ |   |-         Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/3/AV/2AGYLX7B3BWFEEXH3I3NBE
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 9A9531EA4628CA37F2EBA09A2F280292
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.StaticMeshActor_UAID_FC5CEE9D89415F4502_1605905084
+ |   |-         Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/5/MT/R4P7QG3VXEPYUML5T20II0
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: D640714A4B3905E117CF02B900C37A51
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.StaticMeshActor_UAID_FC5CEE9D8941764902_1891914351
+ |   |-         Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/6/O0/T2L1LC5QAVJUWF7KFQC2PR
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: F9E1AB734B5BE08BBEEDF09286ED8FCA
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell Moonbase_Scene_MainGrid_0_0_0_0 (76KYE6R5BYTUMI6FQD5HX05OT)
+ |- Actor Count: 9
+ |- [+] /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.StaticMeshActor_UAID_FC5CEE9D8941264902_2146220271
+ |   |-         Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/4/XV/YXWMWWPRSVQONDVI7XOZB4
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 2E6B6875465919213F444890F9D6E7ED
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.StaticMeshActor_UAID_FC5CEE9D8941704902_1433171295
+ |   |-         Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/3/BA/3EZT33OKJTGPNV6F59JF7X
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 3B535A784BDFDEBEA78B8D8C0E2FDD3C
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.StaticMeshActor_UAID_FC5CEE9D8941964602_2066770816
+ |   |-         Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/7/3S/23GJJUWB2SZUJ0B067D7EL
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 3E48ED294ABAF4C2B7DB37837AD152AC
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.StaticMeshActor_UAID_FC5CEE9D8941744902_1217042999
+ |   |-         Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/8/EA/B84E83EKC2I6V8EGUB51KU
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 3F095D0D403468143521E8829133F4D4
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.StaticMeshActor_UAID_FC5CEE9D89415F4502_1386291080
+ |   |-         Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/E/4N/E299VWEENMQR7WXEV4CREO
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 59B8430F41B6A38E0D61D3AF359B5979
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.StaticMeshActor_UAID_FC5CEE9D89415F4502_1578787083
+ |   |-         Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/8/DS/3UDLKNGSZQEKSPTYH56PF0
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 6387E6AD4B34B19A6B02EA91A36B5041
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.StaticMeshActor_UAID_FC5CEE9D8941714902_1081785473
+ |   |-         Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/C/HA/ON6CB8KYHT8TP9ZMJHTWG2
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 6C3D7F304366091E02CF0D991ED67971
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.StaticMeshActor_UAID_FC5CEE9D8941774902_1230392528
+ |   |-         Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/C/VC/SALQJK73UDTLFD5C4JC9AE
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 75AF87914CF52B2D8B8F919A70F105DA
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.StaticMeshActor_UAID_FC5CEE9D8941774902_1198838527
+ |   |-         Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/2/QP/IDSIPEAXRBIQFA1MF3QHEF
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 99E915C345775E929B7836AC0C1A001C
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell Moonbase_Scene_MainGrid_-1_-1_-1_4 (7CT9QGUWO4Z6QYE0RO7K9PQPO)
+ |- Actor Count: 1
+ |- [+] /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.StaticMeshActor_UAID_FC5CEE9D89414C4902_1870686960
+ |   |-         Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/E/50/FJBKWFN0G9K0QCIWQFM0VY
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 455312B44F33F18B9B401896F50F5A38
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell Moonbase_Scene_MainGrid_-1_0_0_0 (AUAG1177AIKG39FLCHV0UYNX9)
+ |- Actor Count: 1
+ |- [+] /Game/CustomAssets/Moonbase_Scene.Moonbase_Scene:PersistentLevel.StaticMeshActor_UAID_FC5CEE9D8941964602_1151990815
+ |   |-         Package: /Game/__ExternalActors__/CustomAssets/Moonbase_Scene/5/JD/NVGVG1NXW2U2S8NSTWG4ZK
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 25E854CE4B93BD759173A48EAB1A3008
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+
